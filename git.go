@@ -2,7 +2,7 @@ package git
 
 import (
 	"fmt"
-	"github.com/forj-oss/forjj/utils"
+	"github.com/forj-oss/utils"
 	"log"
 	"os"
 	"os/exec"
