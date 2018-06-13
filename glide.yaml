@@ -1,0 +1,8 @@
+package: go-git
+import:
+- package: github.com/forj-oss/forjj-modules
+  subpackages:
+  - trace
+- package: github.com/forj-oss/forjj
+  subpackages:
+  - utils
