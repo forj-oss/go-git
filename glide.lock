@@ -1,25 +1,14 @@
-hash: 1aad3859022574a9d195b28214be48db06a98e39f36d8428555bfb4a7f0cc702
-updated: 2018-06-13T12:42:19.659196374Z
+hash: 8a2268a85ce1f968ce26663f33dc31caac481cf2ecf5f2be1c1d81b9ee2d991f
+updated: 2018-06-13T14:33:06.086699508Z
 imports:
-- name: github.com/alecthomas/kingpin
-  version: a328427ab7d619fe3c8d16a0da66899d03d5afae
-  repo: https://github.com/clarsonneur/kingpin
-- name: github.com/alecthomas/template
-  version: a0175ee3bccc567396460bf5acd36800cb10c49c
-  subpackages:
-  - parse
-- name: github.com/alecthomas/units
-  version: 2efee857e7cfd4f3d0138cc3cbb1b4966962b93a
 - name: github.com/fatih/color
   version: 2d684516a8861da43017284349b7e303e809ac21
-- name: github.com/forj-oss/forjj
-  version: 3d63aa62ed23815411ebd468f4e1ffe283af82e4
-  subpackages:
-  - utils
 - name: github.com/forj-oss/forjj-modules
   version: 45525459714d36e6eb5f3ee574e90997b81712cf
   subpackages:
   - trace
+- name: github.com/forj-oss/utils
+  version: b8752db00181e7eeb471a101f37679037adab18d
 - name: github.com/kvz/logstreamer
   version: a635b98146f0f465f3413a0b8ec481f3698d3fc2
 - name: github.com/mattn/go-colorable
